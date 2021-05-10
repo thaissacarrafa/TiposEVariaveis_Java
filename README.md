@@ -1,4 +1,4 @@
-# estudandocomPCquebrado
+# estudandoComPcQuebrado
 
 O PC quebrou, então, vou usar o readme como "pasta de prints" de alguns conceitos que estou estudando pela IDE online. 
 
