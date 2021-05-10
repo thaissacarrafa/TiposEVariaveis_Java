@@ -30,7 +30,7 @@ No caso acima para aparecer o resultado de 5/2 = 2.5 é necessário transforar o
 
 ![double calculo inteiro 2](https://user-images.githubusercontent.com/69389369/117716132-9741d800-b1af-11eb-9592-79b592e000a6.PNG)
 
-Observações: um número inteiro cabe em um double, porém o inverso não pode ocorrer, a não ser que coloquemos o (int) que é uma forma do Java assegurar que estamos cientes que "perderemos" alguns valores da casa decimal. 
+Observações: um número *inteiro* cabe em um *double*, porém o inverso não pode ocorrer, a não ser que coloquemos o (int) que é uma forma do Java assegurar que estamos cientes que "perderemos" alguns valores da casa decimal. 
 
 Veja abaixo:
 
