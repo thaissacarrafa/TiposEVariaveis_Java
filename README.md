@@ -51,3 +51,10 @@ Float tem uma limite de casa de decimais, já o double aparecem várias casas de
 
 ![char](https://user-images.githubusercontent.com/69389369/117744576-5b266b80-b1df-11eb-8e19-6dde6d122a4a.PNG)
 
+
+## Variáveis primitivas ( guardando valores)
+
+- Comentários no código
+
+![treinando valores](https://user-images.githubusercontent.com/69389369/117747301-4e584680-b1e4-11eb-9b9e-5baafec1295d.PNG)
+
