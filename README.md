@@ -45,5 +45,9 @@ Observações: o *(int)* é um type casting - que nada mais é uma forma de faze
 
 Float tem uma limite de casa de decimais, já o double aparecem várias casas decimais após a virgula ( caso tenha o *f* no número decimal). Para utilizar o float é necessário colocar o *f* após o número decimal para que o Java compreenda. 
 
+## Char
 
+- Comentários no código
+
+![char](https://user-images.githubusercontent.com/69389369/117744576-5b266b80-b1df-11eb-8e19-6dde6d122a4a.PNG)
 
