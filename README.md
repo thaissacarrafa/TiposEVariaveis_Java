@@ -3,7 +3,7 @@
 O PC quebrou, então, vou usar o readme como "pasta de prints" de alguns conceitos que estou estudando pela IDE online. 
 
 
-# Tipo Inteiro: Int 
+## Tipo Inteiro: Int 
 
 ![int](https://user-images.githubusercontent.com/69389369/117715207-5ac1ac80-b1ae-11eb-819c-d6a51ed55a97.PNG)
 
@@ -15,7 +15,7 @@ Observações:
  
  
  
- # Tipo Flutuante: Double
+ ## Tipo Flutuante: Double
  
  ![double](https://user-images.githubusercontent.com/69389369/117715838-31ede700-b1af-11eb-9dc5-7c4962a99b13.PNG)
 
@@ -35,4 +35,13 @@ Observações: um número *inteiro* cabe em um *double*, porém o inverso não p
 Veja abaixo:
 
 ![conversao](https://user-images.githubusercontent.com/69389369/117716838-7332c680-b1b0-11eb-9966-87ce205d5bd2.PNG)
+
+
+ ## Float
+ 
+![float](https://user-images.githubusercontent.com/69389369/117743231-c7ec3680-b1dc-11eb-849a-7d0837a6e252.PNG)
+
+Float tem uma limite de casa de decimais, já o double aparecem várias casas decimais após a virgula ( caso tenha o *f* no número decimal). Para utilizar o float é necessário colocar o *f* após o número decimal para que o Java compreenda. 
+
+
 
