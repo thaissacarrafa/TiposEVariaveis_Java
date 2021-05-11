@@ -36,6 +36,8 @@ Veja abaixo:
 
 ![conversao](https://user-images.githubusercontent.com/69389369/117716838-7332c680-b1b0-11eb-9966-87ce205d5bd2.PNG)
 
+Observações: o *(int)* é um type casting - que nada mais é uma forma de fazer uma conversão onde pode haver perda de informações.
+
 
  ## Float
  
